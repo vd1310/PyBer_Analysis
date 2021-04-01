@@ -13,7 +13,7 @@ The purpose of this project is to analyze the city and ride data for 'Pyber'and 
 ##### b. Higher number of rides in Urban city type also generated highest fares (39854.38) whereas Rural city type resulted in least fare (4327.93)
 ##### c. The above trends resulted in the average fare per ride in Rural bieng highest (34.62) vs Urban bieng lowest (24.52)
 
-![alt text](https://github.com/vd1310/PyBer_Analysis/blob/main/Resources/pyber_summrydf.PNG)
+![alt text](https://github.com/vd1310/PyBer_Analysis/blob/main/pyber_summrydf.PNG)
 
 #### 2. Multiple-line chart of total fares for each city type
 ###### a. All the city types showed a spike in third week of Feb followed by sharp dip in fares in the last week of Feb
