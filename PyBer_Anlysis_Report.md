@@ -28,4 +28,4 @@ The purpose of this project is to analyze the city and ride data for 'Pyber' and
 #### Recommendations:
 ##### 1. As we can see that Rural city has lowest driver engagement, management can try to create a push in the Rural type cities to provide more incentive to drivers or increase demand by creating pull via advertising
 ##### 2. Although Urban city type has highest drivers but the number of rides is less than the total driver count. This suggests that even though drivers are signing up but either the demand is not that high or drivers are not accepting enough rides. Management can include more quality driver selection criteria for Urban city types or try creating pull in the market via promotions
-##### 3. All cities showed a sharp dip in 4th week of Feb, management showed analyze the market factors which might be affecting this dip
+##### 3. All cities showed a sharp dip in 4th week of Feb, management should analyze the market factors which might be affecting this dip
