@@ -8,17 +8,12 @@ The purpose of this project is to analyze the city and ride data for 'Pyber'and 
 
 ## Results: 
 
-#### 1. How is the district summary affected?
-##### The district summary results show slight drop in numbers as evident from below pictures. Average Math drops to 78.9, average reading remains the same and there is slight drop in overall passing scores as well.
+#### 1. Differences in ride-sharing data among the different city types
+##### a. Urban city type has the highest number of drivers and ride and Rural city type showed least driver count and rides
+##### b. Higher number of rides in Urban city type also generated highest fares (39854.38) whereas Rural city type resulted in least fare (4327.93)
+##### c. The above trends resulted in the average fare per ride in Rural bieng highest (34.62) vs Urban bieng lowest (24.52)
 
-###### Changed summary results
-
-![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/Changed%20summary.PNG)
-
-
-###### Original summary results
-![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/disctrict%20summary_old.PNG)
-
+![alt text](https://github.com/vd1310/PyBer_Analysis/blob/main/Resources/pyber_summrydf.PNG)
 
 #### 2. How is the school summary affected? 
 ###### As we can see only Thomas High School are impacted and reduced, refer to below images for comparison results:
