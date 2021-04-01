@@ -21,7 +21,7 @@ The purpose of this project is to analyze the city and ride data for 'Pyber' and
 ###### b. Sub Urban city type also showed a steady increase in fares up until third week of Feb followed by a dip in last week of Feb. Sub urban city fares were stable in the month of March and started rising in April
 ###### b. Rural city fares were reported lowest but showed a steady trend through Jan - April period with exceptions being sudden drop in forth week of Feb and 1st week of Apr
 
-![alt text](https://github.com/vd1310/PyBer_Analysis/blob/main/PyBer_fare_summary.png)
+![alt text](https://github.com/vd1310/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
 
 ## Summary
