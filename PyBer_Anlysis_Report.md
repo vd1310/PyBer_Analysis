@@ -20,7 +20,7 @@ The purpose of this project is to analyze the city and ride data for 'Pyber'and 
 
 ###### Changed school summary results
 
-![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/schoolsummarynew.PNG)
+![alt text](https://github.com/vd1310/PyBer_Analysis/blob/main/PyBer_fare_summary.png)
 
 
 ###### Original school summary results
@@ -37,48 +37,6 @@ The scores of Thomas High School dropped marginally. Overall passing also reduce
 ![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/ths_old.PNG)
 
 
-#### 4. How does replacing the ninth-grade scores affect the following:
-
-###### a. Math and reading scores by grade
-The scroes are almost the same with slight drop in Thomas High School only:
-
-###### Changed Math results
-![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/math_by_grade_new.PNG)
-
-###### Original Math results
-![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/math_by_grade_old.PNG)
-
-###### Changed Reading results
-![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/Reading_bygrade_new.PNG)
-
-###### Original Reading results
-![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/Reading_bygrade_old.PNG)
-
-
-###### b. Scores by school spending
-Scores of Thomas High School are reduced, passing math & reading percentages are reduced to 66 & 69 from 93 & 97, refer to below images:
-
-###### Changed spending results
-![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/spending_new.PNG)
-
-###### Original spending results
-![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/schoolsummaryold.PNG)
-
-###### c. Scores by school type: No change.  Refer to below images:
-
-###### Changed results by school type
-![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/school_type_new.PNG)
-
-###### Original results by school type
-![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/schooltypeold.PNG)
-
-###### d. Scores by school size; scores dropped slightly, refer below:
-
-###### Changed results by school type
-![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/size_new.PNG)
-
-###### Original results by school type
-![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/size_old.PNG)
 
 ## Summary
 Replacing the math & reading scores of Thomas High School impacted average math and average reading scores thereby impacting the overall summary scores. This change also showed marginal drop in scores across grades, spending and school type
