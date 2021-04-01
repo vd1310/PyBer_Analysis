@@ -1,13 +1,10 @@
 # PyBer_Analysis
 ## Overview of Project
-The purpose of this project is to analyze the school district and student files and check for school performance, subject scores and affect of spending on school performance.
+The purpose of this project is to analyze the city and ride data for 'Pyber'and create necessary dataframes and charts to help decision makers to undersatnd data differences between various cities
 ### Purpose
-###### Replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. 
-###### Repeat the school district analysis in module 4
-###### Find out top 5 and bottom 5 performing schools
-###### Find out average math and reading scores for each grade from each school
-###### Find out scores by school spending per student, by school size, and by school type
-
+###### Use Python and Pandas to create summary DataFrame of the ride sharing data by city type
+###### Use Matplotlib to create multiple-line graph to show total weekly fares by each city type
+###### Summarize differnces by city type
 
 ## Results: 
 
