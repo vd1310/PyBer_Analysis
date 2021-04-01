@@ -24,20 +24,4 @@ The purpose of this project is to analyze the city and ride data for 'Pyber'and 
 ![alt text](https://github.com/vd1310/PyBer_Analysis/blob/main/PyBer_fare_summary.png)
 
 
-###### Original school summary results
-
-![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/schoolsummaryold.PNG)
-
-#### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-The scores of Thomas High School dropped marginally. Overall passing also reduced from 90.9 to 90.6. The below comparison shows the drop in the scores:
-
-###### Changed results
-![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/ths_new.PNG)
-
-###### Original results
-![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/ths_old.PNG)
-
-
-
 ## Summary
-Replacing the math & reading scores of Thomas High School impacted average math and average reading scores thereby impacting the overall summary scores. This change also showed marginal drop in scores across grades, spending and school type
