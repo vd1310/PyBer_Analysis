@@ -10,8 +10,8 @@ The purpose of this project is to analyze the city and ride data for 'Pyber'and 
 
 #### 1. Differences in ride-sharing data among the different city types
 ##### a. Urban city type has the highest number of drivers and ride and Rural city type showed least driver count and rides
-##### b. Higher number of rides in Urban city type also generated highest fares (39854.38) whereas Rural city type resulted in least fare (4327.93)
-##### c. The above trends resulted in the average fare per ride in Rural bieng highest (34.62) vs Urban bieng lowest (24.52)
+##### b. Higher number of rides in Urban city type also generated highest fares (39,854.38) whereas Rural city type resulted in least fare (4,327.93)
+##### c. The above trends resulted in the average fare per ride in Rural bieng highest (34.62) vs Urban bieng lowest (24.53)
 
 ![alt text](https://github.com/vd1310/PyBer_Analysis/blob/main/pyber_summrydf.PNG)
 
